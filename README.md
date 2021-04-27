@@ -23,7 +23,7 @@
 
 6. [Telco 5G](https://github.com/mikeroyal/Oracle-Cloud-Guide/blob/main/README.md#telco-5g)
 
-7. [Open Source Security](https://github.com/mikeroyal/Oracle-Cloud-Cloud-Guide/blob/main/README.md#open-source-security)
+7. [Open Source Security](https://github.com/mikeroyal/Oracle-Cloud-Guide/blob/main/README.md#open-source-security)
 
 8. [Kubernetes](https://github.com/mikeroyal/Oracle-Cloud-Guide/blob/main/README.md#kubernetes)
 
