@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/116304999-02bf8a80-a758-11eb-9e44-a9662805a01f.png">
+ <img src="https://user-images.githubusercontent.com/45159366/146077721-f8bda17b-5411-4211-b18b-c6a39bd8cc78.png">
   <br />
  Oracle Cloud Infrastructure Guide
 </h1>
@@ -8,6 +8,10 @@
  
  **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
  
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/146077729-4d2858e6-ebe7-49bd-b92f-83a82e9d7d60.png">
+  <br />
+</p>
  
 # Table of Contents
 
@@ -48,11 +52,6 @@
  
 **Oracle Database Offerings in Oracle Cloud Infrastructure. Source: [Oracle](https://blogs.oracle.com/cloud-infrastructure/oracle-database-offerings-in-oracle-cloud-infrastructure)**
 
-<p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/116305004-03f0b780-a758-11eb-988b-6dd6f65be8cc.png">
-  <br />
-</p>
-
 # Oracle Cloud Learning Resources
 
 [Back to the Top](https://github.com/mikeroyal/Oracle-Cloud-Guide/blob/main/README.md#table-of-contents)
@@ -72,8 +71,6 @@
 [Oracle Integration Cloud Services (OIC) - Oracle ICS on Udemy](https://www.udemy.com/course/oic-oracle-integration-cloud/)
 
 [Top Oracle Cloud Courses on Coursera](https://www.coursera.org/courses?query=oracle)
-
-
 
 # Oracle Cloud Tools
 
